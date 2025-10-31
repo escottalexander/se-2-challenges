@@ -123,7 +123,7 @@ Go to [SE-2 Extensions Documentation](https://docs.scaffoldeth.io/extensions/cre
 
 5. Find all the file comments marked `// CHALLENGE-TODO:` and follow the instructions to prepare your challenge.
 
-6. Commit those changes as an initial commit: `git add . && git commit -m "fill template"`
+6. Commit those changes as an initial commit: `git add . && git commit -m "fill template"`.
 
 #### Commands to be run in create-eth repo:
 
